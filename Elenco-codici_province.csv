@@ -1,113 +1,113 @@
 ,Codice Regione,"Codice dell'Unità territoriale sovracomunale 
 (valida a fini statistici)",Codice Provincia (Storico)(1),Codice Ripartizione Geografica,Ripartizione geografica,Denominazione regione,"Denominazione dell'Unità territoriale sovracomunale 
-(valida a fini statistici)",Sigla automobilistica,NUTS1,NUTS2(3) ,NUTS3
-0,1,201,1,1,Nord-ovest,Piemonte,Torino,TO,ITC,ITC1,ITC11
-312,1,2,2,1,Nord-ovest,Piemonte,Vercelli,VC,ITC,ITC1,ITC12
-394,1,3,3,1,Nord-ovest,Piemonte,Novara,NO,ITC,ITC1,ITC15
-481,1,4,4,1,Nord-ovest,Piemonte,Cuneo,CN,ITC,ITC1,ITC16
-728,1,5,5,1,Nord-ovest,Piemonte,Asti,AT,ITC,ITC1,ITC17
-846,1,6,6,1,Nord-ovest,Piemonte,Alessandria,AL,ITC,ITC1,ITC18
-1033,1,96,96,1,Nord-ovest,Piemonte,Biella,BI,ITC,ITC1,ITC13
-1107,1,103,103,1,Nord-ovest,Piemonte,Verbano-Cusio-Ossola,VB,ITC,ITC1,ITC14
-1181,2,7,7,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,AO,ITC,ITC2,ITC20
-1255,3,12,12,1,Nord-ovest,Lombardia,Varese,VA,ITC,ITC4,ITC41
-1393,3,13,13,1,Nord-ovest,Lombardia,Como,CO,ITC,ITC4,ITC42
-1541,3,14,14,1,Nord-ovest,Lombardia,Sondrio,SO,ITC,ITC4,ITC44
-1618,3,215,15,1,Nord-ovest,Lombardia,Milano,MI,ITC,ITC4,ITC4C
-1751,3,16,16,1,Nord-ovest,Lombardia,Bergamo,BG,ITC,ITC4,ITC46
-1994,3,17,17,1,Nord-ovest,Lombardia,Brescia,BS,ITC,ITC4,ITC47
-2199,3,18,18,1,Nord-ovest,Lombardia,Pavia,PV,ITC,ITC4,ITC48
-2385,3,19,19,1,Nord-ovest,Lombardia,Cremona,CR,ITC,ITC4,ITC4A
-2498,3,20,20,1,Nord-ovest,Lombardia,Mantova,MN,ITC,ITC4,ITC4B
-2562,3,97,97,1,Nord-ovest,Lombardia,Lecco,LC,ITC,ITC4,ITC43
-2646,3,98,98,1,Nord-ovest,Lombardia,Lodi,LO,ITC,ITC4,ITC49
-2706,3,108,108,1,Nord-ovest,Lombardia,Monza e della Brianza,MB,ITC,ITC4,ITC4D
-2761,4,21,21,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,BZ,ITH,ITH1,ITH10
-2877,4,22,22,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,TN,ITH,ITH2,ITH20
-3043,5,23,23,2,Nord-est,Veneto,Verona,VR,ITH,ITH3,ITH31
-3141,5,24,24,2,Nord-est,Veneto,Vicenza,VI,ITH,ITH3,ITH32
-3255,5,25,25,2,Nord-est,Veneto,Belluno,BL,ITH,ITH3,ITH33
-3316,5,26,26,2,Nord-est,Veneto,Treviso,TV,ITH,ITH3,ITH34
-3410,5,227,27,2,Nord-est,Veneto,Venezia,VE,ITH,ITH3,ITH35
-3454,5,28,28,2,Nord-est,Veneto,Padova,PD,ITH,ITH3,ITH36
-3556,5,29,29,2,Nord-est,Veneto,Rovigo,RO,ITH,ITH3,ITH37
-3606,6,30,30,2,Nord-est,Friuli-Venezia Giulia,Udine,UD,ITH,ITH4,ITH42
-3740,6,31,31,2,Nord-est,Friuli-Venezia Giulia,Gorizia,GO,ITH,ITH4,ITH43
-3765,6,32,32,2,Nord-est,Friuli-Venezia Giulia,Trieste,TS,ITH,ITH4,ITH44
-3771,6,93,93,2,Nord-est,Friuli-Venezia Giulia,Pordenone,PN,ITH,ITH4,ITH41
-3821,7,8,8,1,Nord-ovest,Liguria,Imperia,IM,ITC,ITC3,ITC31
-3887,7,9,9,1,Nord-ovest,Liguria,Savona,SV,ITC,ITC3,ITC32
-3956,7,210,10,1,Nord-ovest,Liguria,Genova,GE,ITC,ITC3,ITC33
-4023,7,11,11,1,Nord-ovest,Liguria,La Spezia,SP,ITC,ITC3,ITC34
-4055,8,33,33,2,Nord-est,Emilia-Romagna,Piacenza,PC,ITH,ITH5,ITH51
-4101,8,34,34,2,Nord-est,Emilia-Romagna,Parma,PR,ITH,ITH5,ITH52
-4145,8,35,35,2,Nord-est,Emilia-Romagna,Reggio nell'Emilia,RE,ITH,ITH5,ITH53
-4187,8,36,36,2,Nord-est,Emilia-Romagna,Modena,MO,ITH,ITH5,ITH54
-4234,8,237,37,2,Nord-est,Emilia-Romagna,Bologna,BO,ITH,ITH5,ITH55
-4289,8,38,38,2,Nord-est,Emilia-Romagna,Ferrara,FE,ITH,ITH5,ITH56
-4310,8,39,39,2,Nord-est,Emilia-Romagna,Ravenna,RA,ITH,ITH5,ITH57
-4328,8,40,40,2,Nord-est,Emilia-Romagna,Forlì-Cesena,FC,ITH,ITH5,ITH58
-4358,8,99,99,2,Nord-est,Emilia-Romagna,Rimini,RN,ITH,ITH5,ITH59
-4383,9,45,45,3,Centro,Toscana,Massa-Carrara,MS,ITI,ITI1,ITI11
-4400,9,46,46,3,Centro,Toscana,Lucca,LU,ITI,ITI1,ITI12
-4433,9,47,47,3,Centro,Toscana,Pistoia,PT,ITI,ITI1,ITI13
-4453,9,248,48,3,Centro,Toscana,Firenze,FI,ITI,ITI1,ITI14
-4494,9,49,49,3,Centro,Toscana,Livorno,LI,ITI,ITI1,ITI16
-4513,9,50,50,3,Centro,Toscana,Pisa,PI,ITI,ITI1,ITI17
-4550,9,51,51,3,Centro,Toscana,Arezzo,AR,ITI,ITI1,ITI18
-4586,9,52,52,3,Centro,Toscana,Siena,SI,ITI,ITI1,ITI19
-4621,9,53,53,3,Centro,Toscana,Grosseto,GR,ITI,ITI1,ITI1A
-4649,9,100,100,3,Centro,Toscana,Prato,PO,ITI,ITI1,ITI15
-4656,10,54,54,3,Centro,Umbria,Perugia,PG,ITI,ITI2,ITI21
-4715,10,55,55,3,Centro,Umbria,Terni,TR,ITI,ITI2,ITI22
-4748,11,41,41,3,Centro,Marche,Pesaro e Urbino,PU,ITI,ITI3,ITI31
-4801,11,42,42,3,Centro,Marche,Ancona,AN,ITI,ITI3,ITI32
-4848,11,43,43,3,Centro,Marche,Macerata,MC,ITI,ITI3,ITI33
-4903,11,44,44,3,Centro,Marche,Ascoli Piceno,AP,ITI,ITI3,ITI34
-4936,11,109,109,3,Centro,Marche,Fermo,FM,ITI,ITI3,ITI35
-4976,12,56,56,3,Centro,Lazio,Viterbo,VT,ITI,ITI4,ITI41
-5036,12,57,57,3,Centro,Lazio,Rieti,RI,ITI,ITI4,ITI42
-5109,12,258,58,3,Centro,Lazio,Roma,RM,ITI,ITI4,ITI43
-5230,12,59,59,3,Centro,Lazio,Latina,LT,ITI,ITI4,ITI44
-5263,12,60,60,3,Centro,Lazio,Frosinone,FR,ITI,ITI4,ITI45
-5354,13,66,66,4,Sud,Abruzzo,L'Aquila,AQ,ITF,ITF1,ITF11
-5462,13,67,67,4,Sud,Abruzzo,Teramo,TE,ITF,ITF1,ITF12
-5509,13,68,68,4,Sud,Abruzzo,Pescara,PE,ITF,ITF1,ITF13
-5555,13,69,69,4,Sud,Abruzzo,Chieti,CH,ITF,ITF1,ITF14
-5659,14,70,70,4,Sud,Molise,Campobasso,CB,ITF,ITF2,ITF22
-5743,14,94,94,4,Sud,Molise,Isernia,IS,ITF,ITF2,ITF21
-5795,15,61,61,4,Sud,Campania,Caserta,CE,ITF,ITF3,ITF31
-5899,15,62,62,4,Sud,Campania,Benevento,BN,ITF,ITF3,ITF32
-5977,15,263,63,4,Sud,Campania,Napoli,,ITF,ITF3,ITF33
-6069,15,64,64,4,Sud,Campania,Avellino,AV,ITF,ITF3,ITF34
-6187,15,65,65,4,Sud,Campania,Salerno,SA,ITF,ITF3,ITF35
-6345,16,71,71,4,Sud,Puglia,Foggia,FG,ITF,ITF4,ITF46
-6406,16,272,72,4,Sud,Puglia,Bari,BA,ITF,ITF4,ITF47
-6447,16,73,73,4,Sud,Puglia,Taranto,TA,ITF,ITF4,ITF43
-6476,16,74,74,4,Sud,Puglia,Brindisi,BR,ITF,ITF4,ITF44
-6496,16,75,75,4,Sud,Puglia,Lecce,LE,ITF,ITF4,ITF45
-6592,16,110,110,4,Sud,Puglia,Barletta-Andria-Trani,BT,ITF,ITF4,ITF48
-6602,17,76,76,4,Sud,Basilicata,Potenza,PZ,ITF,ITF5,ITF51
-6702,17,77,77,4,Sud,Basilicata,Matera,MT,ITF,ITF5,ITF52
-6733,18,78,78,4,Sud,Calabria,Cosenza,CS,ITF,ITF6,ITF61
-6883,18,79,79,4,Sud,Calabria,Catanzaro,CZ,ITF,ITF6,ITF63
-6963,18,280,80,4,Sud,Calabria,Reggio Calabria,RC,ITF,ITF6,ITF65
-7060,18,101,101,4,Sud,Calabria,Crotone,KR,ITF,ITF6,ITF62
-7087,18,102,102,4,Sud,Calabria,Vibo Valentia,VV,ITF,ITF6,ITF64
-7137,19,81,81,5,Isole,Sicilia,Trapani,TP,ITG,ITG1,ITG11
-7161,19,282,82,5,Isole,Sicilia,Palermo,PA,ITG,ITG1,ITG12
-7243,19,283,83,5,Isole,Sicilia,Messina,ME,ITG,ITG1,ITG13
-7351,19,84,84,5,Isole,Sicilia,Agrigento,AG,ITG,ITG1,ITG14
-7394,19,85,85,5,Isole,Sicilia,Caltanissetta,CL,ITG,ITG1,ITG15
-7416,19,86,86,5,Isole,Sicilia,Enna,EN,ITG,ITG1,ITG16
-7436,19,287,87,5,Isole,Sicilia,Catania,CT,ITG,ITG1,ITG17
-7494,19,88,88,5,Isole,Sicilia,Ragusa,RG,ITG,ITG1,ITG18
-7506,19,89,89,5,Isole,Sicilia,Siracusa,SR,ITG,ITG1,ITG19
-7527,20,90,90,5,Isole,Sardegna,Sassari,SS,ITG,ITG2,ITG29
-7529,20,90,90,5,Isole,Sardegna,Sassari,SS,ITG,ITG2,ITG25
-7619,20,91,91,5,Isole,Sardegna,Nuoro,NU,ITG,ITG2,ITG26
-7620,20,91,91,5,Isole,Sardegna,Nuoro,NU,ITG,ITG2,ITG2A
-7693,20,292,92,5,Isole,Sardegna,Cagliari,CA,ITG,ITG2,ITG27
-7710,20,95,95,5,Isole,Sardegna,Oristano,OR,ITG,ITG2,ITG28
-7797,20,111,111,5,Isole,Sardegna,Sud Sardegna,SU,ITG,ITG2,ITG2B
-7802,20,111,111,5,Isole,Sardegna,Sud Sardegna,SU,ITG,ITG2,ITG2C
+(valida a fini statistici)",NUTS1,NUTS2(3) ,NUTS3
+0,1,201,1,1,Nord-ovest,Piemonte,Torino,ITC,ITC1,ITC11
+312,1,2,2,1,Nord-ovest,Piemonte,Vercelli,ITC,ITC1,ITC12
+394,1,3,3,1,Nord-ovest,Piemonte,Novara,ITC,ITC1,ITC15
+481,1,4,4,1,Nord-ovest,Piemonte,Cuneo,ITC,ITC1,ITC16
+728,1,5,5,1,Nord-ovest,Piemonte,Asti,ITC,ITC1,ITC17
+846,1,6,6,1,Nord-ovest,Piemonte,Alessandria,ITC,ITC1,ITC18
+1033,1,96,96,1,Nord-ovest,Piemonte,Biella,ITC,ITC1,ITC13
+1107,1,103,103,1,Nord-ovest,Piemonte,Verbano-Cusio-Ossola,ITC,ITC1,ITC14
+1181,2,7,7,1,Nord-ovest,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,ITC,ITC2,ITC20
+1255,3,12,12,1,Nord-ovest,Lombardia,Varese,ITC,ITC4,ITC41
+1393,3,13,13,1,Nord-ovest,Lombardia,Como,ITC,ITC4,ITC42
+1541,3,14,14,1,Nord-ovest,Lombardia,Sondrio,ITC,ITC4,ITC44
+1618,3,215,15,1,Nord-ovest,Lombardia,Milano,ITC,ITC4,ITC4C
+1751,3,16,16,1,Nord-ovest,Lombardia,Bergamo,ITC,ITC4,ITC46
+1994,3,17,17,1,Nord-ovest,Lombardia,Brescia,ITC,ITC4,ITC47
+2199,3,18,18,1,Nord-ovest,Lombardia,Pavia,ITC,ITC4,ITC48
+2385,3,19,19,1,Nord-ovest,Lombardia,Cremona,ITC,ITC4,ITC4A
+2498,3,20,20,1,Nord-ovest,Lombardia,Mantova,ITC,ITC4,ITC4B
+2562,3,97,97,1,Nord-ovest,Lombardia,Lecco,ITC,ITC4,ITC43
+2646,3,98,98,1,Nord-ovest,Lombardia,Lodi,ITC,ITC4,ITC49
+2706,3,108,108,1,Nord-ovest,Lombardia,Monza e della Brianza,ITC,ITC4,ITC4D
+2761,4,21,21,2,Nord-est,Trentino-Alto Adige/Südtirol,Bolzano/Bozen,ITH,ITH1,ITH10
+2877,4,22,22,2,Nord-est,Trentino-Alto Adige/Südtirol,Trento,ITH,ITH2,ITH20
+3043,5,23,23,2,Nord-est,Veneto,Verona,ITH,ITH3,ITH31
+3141,5,24,24,2,Nord-est,Veneto,Vicenza,ITH,ITH3,ITH32
+3255,5,25,25,2,Nord-est,Veneto,Belluno,ITH,ITH3,ITH33
+3316,5,26,26,2,Nord-est,Veneto,Treviso,ITH,ITH3,ITH34
+3410,5,227,27,2,Nord-est,Veneto,Venezia,ITH,ITH3,ITH35
+3454,5,28,28,2,Nord-est,Veneto,Padova,ITH,ITH3,ITH36
+3556,5,29,29,2,Nord-est,Veneto,Rovigo,ITH,ITH3,ITH37
+3606,6,30,30,2,Nord-est,Friuli-Venezia Giulia,Udine,ITH,ITH4,ITH42
+3740,6,31,31,2,Nord-est,Friuli-Venezia Giulia,Gorizia,ITH,ITH4,ITH43
+3765,6,32,32,2,Nord-est,Friuli-Venezia Giulia,Trieste,ITH,ITH4,ITH44
+3771,6,93,93,2,Nord-est,Friuli-Venezia Giulia,Pordenone,ITH,ITH4,ITH41
+3821,7,8,8,1,Nord-ovest,Liguria,Imperia,ITC,ITC3,ITC31
+3887,7,9,9,1,Nord-ovest,Liguria,Savona,ITC,ITC3,ITC32
+3956,7,210,10,1,Nord-ovest,Liguria,Genova,ITC,ITC3,ITC33
+4023,7,11,11,1,Nord-ovest,Liguria,La Spezia,ITC,ITC3,ITC34
+4055,8,33,33,2,Nord-est,Emilia-Romagna,Piacenza,ITH,ITH5,ITH51
+4101,8,34,34,2,Nord-est,Emilia-Romagna,Parma,ITH,ITH5,ITH52
+4145,8,35,35,2,Nord-est,Emilia-Romagna,Reggio nell'Emilia,ITH,ITH5,ITH53
+4187,8,36,36,2,Nord-est,Emilia-Romagna,Modena,ITH,ITH5,ITH54
+4234,8,237,37,2,Nord-est,Emilia-Romagna,Bologna,ITH,ITH5,ITH55
+4289,8,38,38,2,Nord-est,Emilia-Romagna,Ferrara,ITH,ITH5,ITH56
+4310,8,39,39,2,Nord-est,Emilia-Romagna,Ravenna,ITH,ITH5,ITH57
+4328,8,40,40,2,Nord-est,Emilia-Romagna,Forlì-Cesena,ITH,ITH5,ITH58
+4358,8,99,99,2,Nord-est,Emilia-Romagna,Rimini,ITH,ITH5,ITH59
+4383,9,45,45,3,Centro,Toscana,Massa-Carrara,ITI,ITI1,ITI11
+4400,9,46,46,3,Centro,Toscana,Lucca,ITI,ITI1,ITI12
+4433,9,47,47,3,Centro,Toscana,Pistoia,ITI,ITI1,ITI13
+4453,9,248,48,3,Centro,Toscana,Firenze,ITI,ITI1,ITI14
+4494,9,49,49,3,Centro,Toscana,Livorno,ITI,ITI1,ITI16
+4513,9,50,50,3,Centro,Toscana,Pisa,ITI,ITI1,ITI17
+4550,9,51,51,3,Centro,Toscana,Arezzo,ITI,ITI1,ITI18
+4586,9,52,52,3,Centro,Toscana,Siena,ITI,ITI1,ITI19
+4621,9,53,53,3,Centro,Toscana,Grosseto,ITI,ITI1,ITI1A
+4649,9,100,100,3,Centro,Toscana,Prato,ITI,ITI1,ITI15
+4656,10,54,54,3,Centro,Umbria,Perugia,ITI,ITI2,ITI21
+4715,10,55,55,3,Centro,Umbria,Terni,ITI,ITI2,ITI22
+4748,11,41,41,3,Centro,Marche,Pesaro e Urbino,ITI,ITI3,ITI31
+4801,11,42,42,3,Centro,Marche,Ancona,ITI,ITI3,ITI32
+4848,11,43,43,3,Centro,Marche,Macerata,ITI,ITI3,ITI33
+4903,11,44,44,3,Centro,Marche,Ascoli Piceno,ITI,ITI3,ITI34
+4936,11,109,109,3,Centro,Marche,Fermo,ITI,ITI3,ITI35
+4976,12,56,56,3,Centro,Lazio,Viterbo,ITI,ITI4,ITI41
+5036,12,57,57,3,Centro,Lazio,Rieti,ITI,ITI4,ITI42
+5109,12,258,58,3,Centro,Lazio,Roma,ITI,ITI4,ITI43
+5230,12,59,59,3,Centro,Lazio,Latina,ITI,ITI4,ITI44
+5263,12,60,60,3,Centro,Lazio,Frosinone,ITI,ITI4,ITI45
+5354,13,66,66,4,Sud,Abruzzo,L'Aquila,ITF,ITF1,ITF11
+5462,13,67,67,4,Sud,Abruzzo,Teramo,ITF,ITF1,ITF12
+5509,13,68,68,4,Sud,Abruzzo,Pescara,ITF,ITF1,ITF13
+5555,13,69,69,4,Sud,Abruzzo,Chieti,ITF,ITF1,ITF14
+5659,14,70,70,4,Sud,Molise,Campobasso,ITF,ITF2,ITF22
+5743,14,94,94,4,Sud,Molise,Isernia,ITF,ITF2,ITF21
+5795,15,61,61,4,Sud,Campania,Caserta,ITF,ITF3,ITF31
+5899,15,62,62,4,Sud,Campania,Benevento,ITF,ITF3,ITF32
+5977,15,263,63,4,Sud,Campania,Napoli,ITF,ITF3,ITF33
+6069,15,64,64,4,Sud,Campania,Avellino,ITF,ITF3,ITF34
+6187,15,65,65,4,Sud,Campania,Salerno,ITF,ITF3,ITF35
+6345,16,71,71,4,Sud,Puglia,Foggia,ITF,ITF4,ITF46
+6406,16,272,72,4,Sud,Puglia,Bari,ITF,ITF4,ITF47
+6447,16,73,73,4,Sud,Puglia,Taranto,ITF,ITF4,ITF43
+6476,16,74,74,4,Sud,Puglia,Brindisi,ITF,ITF4,ITF44
+6496,16,75,75,4,Sud,Puglia,Lecce,ITF,ITF4,ITF45
+6592,16,110,110,4,Sud,Puglia,Barletta-Andria-Trani,ITF,ITF4,ITF48
+6602,17,76,76,4,Sud,Basilicata,Potenza,ITF,ITF5,ITF51
+6702,17,77,77,4,Sud,Basilicata,Matera,ITF,ITF5,ITF52
+6733,18,78,78,4,Sud,Calabria,Cosenza,ITF,ITF6,ITF61
+6883,18,79,79,4,Sud,Calabria,Catanzaro,ITF,ITF6,ITF63
+6963,18,280,80,4,Sud,Calabria,Reggio Calabria,ITF,ITF6,ITF65
+7060,18,101,101,4,Sud,Calabria,Crotone,ITF,ITF6,ITF62
+7087,18,102,102,4,Sud,Calabria,Vibo Valentia,ITF,ITF6,ITF64
+7137,19,81,81,5,Isole,Sicilia,Trapani,ITG,ITG1,ITG11
+7161,19,282,82,5,Isole,Sicilia,Palermo,ITG,ITG1,ITG12
+7243,19,283,83,5,Isole,Sicilia,Messina,ITG,ITG1,ITG13
+7351,19,84,84,5,Isole,Sicilia,Agrigento,ITG,ITG1,ITG14
+7394,19,85,85,5,Isole,Sicilia,Caltanissetta,ITG,ITG1,ITG15
+7416,19,86,86,5,Isole,Sicilia,Enna,ITG,ITG1,ITG16
+7436,19,287,87,5,Isole,Sicilia,Catania,ITG,ITG1,ITG17
+7494,19,88,88,5,Isole,Sicilia,Ragusa,ITG,ITG1,ITG18
+7506,19,89,89,5,Isole,Sicilia,Siracusa,ITG,ITG1,ITG19
+7527,20,90,90,5,Isole,Sardegna,Sassari,ITG,ITG2,ITG29
+7529,20,90,90,5,Isole,Sardegna,Sassari,ITG,ITG2,ITG25
+7619,20,91,91,5,Isole,Sardegna,Nuoro,ITG,ITG2,ITG26
+7620,20,91,91,5,Isole,Sardegna,Nuoro,ITG,ITG2,ITG2A
+7693,20,292,92,5,Isole,Sardegna,Cagliari,ITG,ITG2,ITG27
+7710,20,95,95,5,Isole,Sardegna,Oristano,ITG,ITG2,ITG28
+7797,20,111,111,5,Isole,Sardegna,Sud Sardegna,ITG,ITG2,ITG2B
+7802,20,111,111,5,Isole,Sardegna,Sud Sardegna,ITG,ITG2,ITG2C
